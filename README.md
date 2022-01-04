@@ -1,6 +1,4 @@
-- 👋 Hi, I'm Ana and currently working as a Full Stack Developer, I'm new around here and I'm loving GitHub
-- 👀 I'm interested in everything about AI
-- 🌱 I'm currently learning how to structure a robot using ML
+
 - 📫 How to reach me -> anaestefanodeoliveira@outlook.com
 
 <div>
